@@ -2,7 +2,7 @@
 
 ![churn](https://github.com/user-attachments/assets/2a6dc421-3f7a-4bcd-b8a4-f90649f8265a)
 
-📜 #Overview
+📜 # Overview
 Customer churn, where customers stop using a service or product, poses significant challenges to businesses. Predicting churn accurately allows companies to implement retention strategies and reduce revenue loss. This project focuses on building and evaluating multiple machine learning models to predict customer churn using a balanced dataset created with SMOTE (Synthetic Minority Oversampling Technique).
 
 The goal is to identify at-risk customers and help businesses take proactive measures to improve customer satisfaction and retention.
